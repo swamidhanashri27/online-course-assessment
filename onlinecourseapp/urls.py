@@ -10,4 +10,4 @@ urlpatterns = [
         show_exam_result,
         name="show_exam_result",
     ),
-]
+]   
